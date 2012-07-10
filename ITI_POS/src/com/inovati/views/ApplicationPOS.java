@@ -37,7 +37,7 @@ public class ApplicationPOS extends JFrame{
 	
 	
 	private void createMainWindow(){
-		this.setTitle("POS");
+		this.setTitle("InovaTI POS");
 		//this.setSize(500, 400);
 		this.setLocationByPlatform(false);
 		this.setMinimumSize(new Dimension(800, 600));
